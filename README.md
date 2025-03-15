@@ -22,10 +22,9 @@ The dataset consists of sales revenue data collected from multiple locations ove
 
 ## Methodology
 1. Exploratory Data Analysis (EDA)
-The data was first examined to understand the distribution of sales across the three promotions and the variability between them.
-
-We visualized the sales distribution, market sizes, and promotion performance.
-Additional statistical checks were performed to check for potential confounding variables, such as market size and store age.
+- The data was first examined to understand the distribution of sales across the three promotions and the variability between them.
+- We visualized the sales distribution, market sizes, and promotion performance.
+- Additional statistical checks were performed to check for potential confounding variables, such as market size and store age.
 
 2. Statistical Testing
 Three two-sample T-tests were performed to compare each pair of promotions:
@@ -40,7 +39,7 @@ A 99% confidence level was used, meaning an alpha level of 0.01 to reduce the ri
 - Promotion 2 should be discontinued.
 - A follow-up experiment comparing Promotions 1 and 3 should be conducted to select the best-performing campaign in the long term.
 - The experiment could be extended beyond four weeks to capture long-term effects and account for additional variability.
-- 
+  
 4. Limitations
 - The experiment ran for only 4 weeks, which may not fully capture long-term trends.
 - Confounding variables such as store age and market size may influence the results.
@@ -51,11 +50,8 @@ notebook.ipynb: The Jupyter Notebook with the full analysis, including EDA, stat
 visualizations: Graphs and charts displaying key insights from the data.
 
 ## How to Run the Analysis
-Prerequisites:
+### Prerequisites:
 Make sure to install the required libraries if they are not already installed:
-
-bash
-Copiar código
 pip install pandas numpy scipy seaborn matplotlib
 
 ### Steps:
