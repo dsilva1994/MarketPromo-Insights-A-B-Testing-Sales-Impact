@@ -32,7 +32,7 @@ Three two-sample T-tests were performed to compare each pair of promotions:
 - Promotion 1 vs. Promotion 2
 - Promotion 1 vs. Promotion 3
 - Promotion 2 vs. Promotion 3
-A 99% confidence level was used, meaning an alpha level of 0.01 to reduce the risk of Type I errors.
+- A 99% confidence level was used, meaning an alpha level of 0.01 to reduce the risk of Type I errors.
 
 3. Recommendations and Next Steps
 - Promotion 1 and Promotion 3 are the most effective campaigns.
@@ -45,9 +45,8 @@ A 99% confidence level was used, meaning an alpha level of 0.01 to reduce the ri
 - Confounding variables such as store age and market size may influence the results.
 
 ## Files
-data.csv: The sales data used for analysis.
-notebook.ipynb: The Jupyter Notebook with the full analysis, including EDA, statistical tests, and recommendations.
-visualizations: Graphs and charts displaying key insights from the data.
+- WA_Marketing-Campaign.csv: The sales data used for analysis.
+- A-B Testing Analysis.ipynb: The Jupyter Notebook with the full analysis, including EDA, statistical tests, and recommendations.
 
 ## How to Run the Analysis
 ### Prerequisites:
@@ -55,9 +54,10 @@ Make sure to install the required libraries if they are not already installed:
 pip install pandas numpy scipy seaborn matplotlib
 
 ### Steps:
-Download the dataset (data.csv).
-Open the Jupyter Notebook (notebook.ipynb) and run each cell to perform the analysis.
-Review the results and interpretations for statistical significance and marketing insights.
+- Download the dataset (data.csv).
+- Open the Jupyter Notebook (notebook.ipynb) and run each cell to perform the analysis.
+- Review the results and interpretations for statistical significance and marketing insights.
+
 
 ## Conclusion:
 - This analysis provides valuable insights into the performance of three different promotional campaigns. 
@@ -72,6 +72,7 @@ Review the results and interpretations for statistical significance and marketin
 ## How to Use This Repository
 - Navigate through the folders to access code and visualizations.
 - Use the Code: You can reference or adapt the Python code in the Jupyter Notebook, but do not replicate the full project.
+- Feel free to give me feedack or exchange ideas! 
 - Licensing: This work is licensed under CC BY-NC 4.0, meaning it can be used for learning but not for commercial purposes.
 
 ## Contact Me
