@@ -1,4 +1,4 @@
-# MarketPromo-Insights-A/B-Testing-Sales-Impact
+# MarketPromo A/B Testing Sales Impact Analysis
 ## Project Overview
 This project involves analyzing the results of a marketing experiment conducted by a fast-food company to evaluate three different promotional campaigns. The objective is to assess the effectiveness of these campaigns by analyzing sales revenue data across multiple locations over four weeks.
 
