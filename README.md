@@ -55,7 +55,7 @@ pip install pandas numpy scipy seaborn matplotlib
 
 ### Steps:
 - Download the dataset (data.csv).
-- Open the Jupyter Notebook (notebook.ipynb) and run each cell to perform the analysis.
+- Open the Jupyter Notebook and run each cell to perform the analysis.
 - Review the results and interpretations for statistical significance and marketing insights.
 
 
@@ -72,7 +72,7 @@ pip install pandas numpy scipy seaborn matplotlib
 ## How to Use This Repository
 - Navigate through the folders to access code and visualizations.
 - Use the Code: You can reference or adapt the Python code in the Jupyter Notebook, but do not replicate the full project.
-- Feel free to give me feedack or exchange ideas! 
+- Feel free to give me feedback or exchange ideas! 
 - Licensing: This work is licensed under CC BY-NC 4.0, meaning it can be used for learning but not for commercial purposes.
 
 ## Contact Me
